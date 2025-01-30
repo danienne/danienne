@@ -15,4 +15,4 @@ Sou desenvolvedora com experiência em aplicações WEB, com certificação da M
 
 💬 Fique à vontade para abrir uma issue ou me mandar uma mensagem!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F722BD&center=true&vCenter=true&width=435&lines=it's+not+what+the+world+holds+for+you%2C+;it's+what+you+bring+to+it!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=F722BD&center=true&vCenter=true&width=435&lines=it's+not+what+the+world+holds+for+you;it's+what+you+bring+to+it!)](https://git.io/typing-svg)
