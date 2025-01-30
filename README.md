@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniella+Bucheroni;Be+Welcome!+:%29)]
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F722BD&center=true&vCenter=true&width=435&lines=Hello%2C+My+name+is+Daniella+Bucheroni;I+am+30+years+old;Developer;Be+Welcome+to+my+profile!)](https://git.io/typing-svg)
 # Olá, eu sou a Daniella👋
 
 Sou desenvolvedora com experiência em aplicações WEB, com certificação da Microsoft em Transact SQL, e atualmente estou me aprofundando em Ciência de Dados. Apaixonada por aprender e aplicar novas tecnologias, especialmente relacionadas a análise de dados, machine learning e inteligência artificial.
