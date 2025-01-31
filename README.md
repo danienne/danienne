@@ -11,7 +11,7 @@ Sou desenvolvedora com experiência em aplicações WEB, com certificação da M
 - Ciência de Dados na EBAC
 
 ## 🖇️ Conecte-se comigo
-- [LinkedIn]([https://www.linkedin.com/in/seuperfil/](https://www.linkedin.com/in/daniella-sampaio-bucheroni-98b04b49/))
+- [LinkedIn](https://www.linkedin.com/in/daniella-sampaio-bucheroni-98b04b49/)
 
 💬 Fique à vontade para abrir uma issue ou me mandar uma mensagem!
 
